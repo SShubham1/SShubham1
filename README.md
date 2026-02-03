@@ -7,17 +7,11 @@ Welcome to my GitHub profile!
 ### 👋 About Me
 I'm Shubham, an engineering undergrad with a passion for building practical tools and interactive projects.
 
-💻 I enjoy working with technologies like TypeScript, Python, and Svelte.
+💻 I enjoy working with technologies like TypeScript, Python, C++ and Svelte.
 
 🚀 My projects range from helpful utilities like password generators to fun multiplayer games.
 
 🌱 I'm always learning and exploring new ways to create useful and engaging applications.
-
-[![SShubham1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SShubham1&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SShubham1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SShubham1&theme=dark)](https://git.io/streak-stats)
 
 ---
 
