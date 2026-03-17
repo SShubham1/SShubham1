@@ -22,7 +22,7 @@ Here are a few projects I've been working on and contributed to:
     * A custom HTTP Server using **Berkeley Sockets** in C++  
 * **[passgen](https://github.com/SShubham1/passgen)**
     * A password management tool built with **Python** that can create, encrypt, and decrypt random passwords.
-* **[Tic Tac Toe Multiplayer](https://github.com/SShubham1/tic-tac-toe-multiplayer)**
+* **[Tic-Tac-Toe Multiplayer](https://github.com/SShubham1/tic-tac-toe-multiplayer)**
     * A multiplayer Tic-Tac-Toe game built with **TypeScript**.
 * **[Video Chatter](https://github.com/SShubham1/video-chatter)**
     * A Video Chat web app with client and server made during Covid using **React** and **webrtc**.
