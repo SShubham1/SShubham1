@@ -18,14 +18,13 @@ I'm Shubham, an engineering undergrad with a passion for building practical tool
 ### 🚀 My Pinned Projects
 
 Here are a few projects I've been working on and contributed to:
-
+* **[DIY HTTP Server](https://github.com/SShubham1/diy_http_server)**
+    * A custom HTTP Server using **Berkeley Sockets** in C++  
 * **[passgen](https://github.com/SShubham1/passgen)**
     * A password management tool built with **Python** that can create, encrypt, and decrypt random passwords.
-* **[tic-tac-toe-multiplayer](https://github.com/SShubham1/tic-tac-toe-multiplayer)**
+* **[Tic Tac Toe Multiplayer](https://github.com/SShubham1/tic-tac-toe-multiplayer)**
     * A multiplayer Tic-Tac-Toe game built with **TypeScript**.
-* **[Tic-Tac-Toe-Mobile](https://github.com/SShubham1/Tic-Tac-Toe-Mobile)**
-    * A mobile version of Tic-Tac-Toe, also using **TypeScript**.
-* **[Tic-Tac-Toe-Desktop](https://github.com/SShubham1/Tic-Tac-Toe-Desktop)**
-    * A desktop version of Tic-Tac-Toe, built with **TypeScript**.
+* **[Video Chatter](https://github.com/SShubham1/video-chatter)**
+    * A Video Chat web app with client and server made during Covid using **React** and **webrtc**.
 * **[pdf2cbt](https://github.com/SShubham1/pdf2cbt)**
     * My contribution to a **Vue**-based tool that turns PDF questions into a Computer-Based Test (CBT).
