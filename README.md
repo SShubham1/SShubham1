@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 👋 About Me
-I'm Shubham, an engineering undergrad with a passion for building practical tools and interactive projects.
+I'm Shubham, an cybersecurity undergrad with a passion for building practical tools and interactive projects.
 
 💻 I enjoy working with technologies like TypeScript, Python, C++ and Svelte.
 
