@@ -18,6 +18,8 @@ I'm Shubham, an cybersecurity undergrad with a passion for building practical to
 ### 🚀 My Pinned Projects
 
 Here are a few projects I've been working on and contributed to:
+* **[Meshsage](https://github.com/SShubham1/Meshsage)**
+    * A Decentralized P2P Chat App  
 * **[DIY HTTP Server](https://github.com/SShubham1/diy_http_server)**
     * A custom HTTP Server using **Berkeley Sockets** in C++  
 * **[passgen](https://github.com/SShubham1/passgen)**
